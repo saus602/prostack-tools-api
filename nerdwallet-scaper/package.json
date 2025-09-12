@@ -1,0 +1,15 @@
+﻿{
+  "name": "nerdwallet-scraper",
+  "version": "1.0.0",
+  "description": "Scraper service for NerdWallet credit cards",
+  "main": "nerdwallet-scraper.js",
+  "scripts": {
+    "start": "node nerdwallet-scraper.js"
+  },
+  "author": "ProStack",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "playwright": "^1.40.0"
+  }
+}
